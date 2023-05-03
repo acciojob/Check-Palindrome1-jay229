@@ -11,4 +11,5 @@ function palindrome(str){
 	}
 	return true;
 }
+palindrome(abcabca)
 module.exports = palindrome
